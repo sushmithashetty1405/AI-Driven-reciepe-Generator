@@ -11,6 +11,7 @@ Serve as an educational tool to help users learn new recipes and cooking techniq
 The primary focus of this project is tackling the challenge of accurately identifying ingredients from images and subsequently generating coherent and enticing recipes
 ![image](https://github.com/user-attachments/assets/57fb70cf-0658-44bf-a901-cb74a81c1275)
 
+![image](https://github.com/user-attachments/assets/6f47bd77-d99c-4ed2-a40d-413be3eadc55)
 
 
 
